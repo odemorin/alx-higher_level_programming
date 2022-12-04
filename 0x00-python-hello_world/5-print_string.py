@@ -1,4 +1,4 @@
-tr = "Holberton School"
+str = "Holberton School"
 
 print("{}{}{}".format(str, str, str))
 
