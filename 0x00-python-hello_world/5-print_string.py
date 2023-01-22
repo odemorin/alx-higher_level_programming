@@ -4,6 +4,6 @@ str = "Holberton School"
 
 str1 = str * 3
 
-print("{}".format(str1))
+print("{} /n".format(str1))
 
-print("{:.9}".format(str))
+print("{:.9} /n".format(str))
