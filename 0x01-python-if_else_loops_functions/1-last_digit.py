@@ -6,7 +6,7 @@ number = random.randint(-10000, 10000)
 
 ld = number % 10 
 
-if number >= 0 
+if number < 0 
 
 else (number * -1) % 10
 
