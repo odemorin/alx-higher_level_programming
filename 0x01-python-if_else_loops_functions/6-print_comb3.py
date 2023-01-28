@@ -4,7 +4,7 @@ for num in range(0, 10):
 
     for num2 in range(0, 10):
 
-        if num is 8 and num2 is 9:
+        if num == 8 and num2 == 9:
 
             print("{:d}{:d}".format(num, num2))
 
